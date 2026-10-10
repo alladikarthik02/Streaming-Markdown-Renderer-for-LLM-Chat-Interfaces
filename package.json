@@ -1,0 +1,53 @@
+{
+  "name": "@alladikarthik/stream-md",
+  "version": "0.1.0",
+  "description": "Safe incremental Markdown rendering for React chat interfaces",
+  "type": "module",
+  "license": "UNLICENSED",
+  "packageManager": "pnpm@11.25.0",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "sideEffects": false,
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc -p tsconfig.build.json",
+    "build:demo": "vite build",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:browser": "playwright test",
+    "check": "pnpm typecheck && pnpm test && pnpm build && pnpm build:demo"
+  },
+  "peerDependencies": {
+    "react": ">=18.3.0 <20",
+    "react-dom": ">=18.3.0 <20"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.0",
+    "@testing-library/react": "16.3.3",
+    "@types/node": "26.6.4",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "jsdom": "30.1.2",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "typescript": "7.0.2",
+    "vite": "8.3.4",
+    "vitest": "5.0.3"
+  },
+  "dependencies": {
+    "entities": "8.1.0",
+    "lowlight": "3.3.0",
+    "marked": "18.1.0"
+  }
+}

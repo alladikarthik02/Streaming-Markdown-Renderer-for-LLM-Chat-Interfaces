@@ -91,3 +91,7 @@ Interview prompt: Why is sanitizing one output path insufficient if plugins intr
 - Validation and result:
 - Remaining limitations:
 - Interview explanation:
+
+## Task 1 outcome
+
+Established a separate library build and demo build, with React as a peer and development dependency. Dependency versions are exact and locked. The initial component mount/unmount test, type checking, both builds and public import passed. The latest user instruction supersedes checkpoint pauses; commits and explanations remain required.

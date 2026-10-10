@@ -1,6 +1,6 @@
 # Tasks and implementation checkpoints
 
-At each task boundary: run relevant checks, review safety invariants, update the challenge log, create one factual commit, explain the result to the user, and pause. Continue after the user's next instruction. Never include prohibited wording in commit messages.
+At each task boundary: run relevant checks, review safety invariants, update the challenge log, create one factual commit, explain the result to the user, and continue to the next task, per the user's updated instruction. Never include prohibited wording in commit messages.
 
 ## Task 0 — Requirements, architecture and risk review
 
@@ -19,7 +19,7 @@ Commit: `docs: define streaming renderer architecture and implementation plan`
 
 ## Task 1 — Reproducible package and test foundation
 
-Status: pending. Depends on Task 0.
+Status: complete. Validation: typecheck, component mount/unmount, package/demo builds and package import passed. Dependencies locked with pnpm 11.25.0 on Node 24.19.0.
 
 Deliver: React/TypeScript package, local Vite demo shell, locked versions, package scripts, unit/component test runner, Playwright setup, CI correctness workflow and minimal typed API. Confirm package availability and current official API docs before choosing versions. Keep React as a peer dependency.
 
