@@ -99,3 +99,7 @@ Established a separate library build and demo build, with React as a peer and de
 ## Task 2 outcome
 
 Implemented a token-to-React renderer with no raw HTML sink. URL validation rejects encoded and control-character schemes; remote image Markdown becomes inert text. Highlighting uses a six-language allowlist and safe spans. Unclosed fences remain plain during streaming. 23 tests and both builds pass. The direct highlight.js dependency is declared explicitly rather than relying on lowlight transitively.
+
+## Task 3 outcome
+
+The planner preserves completed token objects and reparses the last two top-level tokens, retaining entire enclosing lists and quotes. 13 adversarial fixtures pass both every split position and every intermediate character against full parsing. A conservative fallback activates for any opening square bracket (possible reference syntax), CR-normalized input or nonexact lexer source offsets. This intentionally sacrifices speed for all bracket-containing documents, including inline links and task lists, until a proven dependency-aware optimization exists. Source offsets identify blocks; duplicate text cannot collide. 51 tests pass.

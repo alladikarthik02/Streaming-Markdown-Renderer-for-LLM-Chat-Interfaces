@@ -142,3 +142,7 @@ Do not select a license on the owner's behalf. Public distribution needs a licen
 ## 8. Completion criteria
 
 Core completion requires Tasks 1-6 passing with documented limitations and a reproducible package/demo. Evaluation completion additionally requires real recordings, measured comparisons and the calibrated regression gate in Task 7. Release completion requires the authorization and integration inputs in Task 8. Track these separately; do not describe the whole project as complete while evidence or release requirements remain pending.
+
+## Implemented conservative fallback (Task 3)
+
+V1 switches to full lexing once any opening square bracket or CR occurs, or lexer raw offsets are not exact. This is broader than reference-definition detection: links and task lists also take the slow path. The tradeoff is deliberate and must be reported in benchmarks. Ordinary LF paragraphs, code and tables retain mutable-suffix behavior.

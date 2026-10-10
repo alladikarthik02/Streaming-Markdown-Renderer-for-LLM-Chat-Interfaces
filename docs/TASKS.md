@@ -43,7 +43,7 @@ Commit: `feat: render markdown tokens with safe defaults`
 
 ## Task 3 — Incremental planner and memoized blocks
 
-Status: pending. Depends on Task 2.
+Status: complete. Validation: 51 tests including all split positions and every intermediate character; typecheck and both builds pass.
 
 Deliver: source ranges, stable IDs, conservative mutable suffix, fence/list/table handling, late-reference fallback, memoized block views and final full-parse reconciliation.
 
