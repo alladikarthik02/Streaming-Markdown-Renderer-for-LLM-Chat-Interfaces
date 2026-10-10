@@ -129,3 +129,13 @@ CI comparison uses a prior-revision worktree on the same runner, avoiding a misl
 A transport iterator can stall while the reader cancels or starts a different answer. The decoded-text adapter races cancellation against next(), tracks controller generation, and performs best-effort iterator cleanup without waiting forever for a noncooperative return(). The caller still owns network abort and SSE decoding. Tests prove a late old chunk cannot enter a reset stream, errors preserve accepted text without exposing internal exception details, limits stop ingestion, and completed controllers do not consume another source.
 
 Final local validation: 107 unit/component tests, 3 Chromium scenarios, type checking, library/demo builds and a clean tarball install (20 allowed entries) pass. Release documentation explicitly separates the verified adapter contract from actual StudyChat integration. No StudyChat source, real recordings or license choice has arrived; npm publication is not authorized. The implementation is usable locally and on GitHub, while these external release/evidence requirements remain open.
+
+## StudyChat integration and evidence capture — 2026-10-10
+
+The answer has two lifecycles: provisional stream text and a final citation-verified replacement. Finishing on the last delta could leave unsupported text visible as verified. The integration resets and finishes the renderer with the verified answer only after the complete valid event sequence, keeping citation chips separate. A browser test checks both phases, including formatted code and tables.
+
+Frame-batched child updates no longer trigger parent state changes on every token. That also removes the old parent-driven scroll signal. A ResizeObserver on the chat content now follows rendered growth while respecting the reader's existing pause state; the app retains one viewport.
+
+A relative vendored tarball makes a clean StudyChat checkout reproducible without publishing a package or depending on an absolute workstation path. Its version and checksum are recorded beside it.
+
+Real capture failed during lesson ingestion despite successful local PDF extraction. A minimal provider request isolated HTTP 401 token_invalidated; a user-requested retry confirmed the same result. No fixture output is substituted for live evidence. The authored 40 questions, capture client and token accounting are ready; collecting and benchmarking actual responses requires a valid key. Token totals describe visible text rather than billing usage. Citations containing brackets still activate the renderer's conservative full-parse fallback, so integration alone proves no speedup for those answers.

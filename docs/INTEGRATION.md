@@ -1,6 +1,8 @@
 # Chat application integration
 
-The package has been tested against an async text-source contract and a clean installed tarball. Actual StudyChat integration is pending: its source, transport event format and UI were not supplied. Do not describe the contract test as a StudyChat end-to-end test.
+StudyChat integration is implemented in the StudyChat repository. Its existing SSE decoder feeds one MarkdownController per answer; AnswerMarkdown subscribes directly to frame-batched plans. Successful verification replaces provisional text before citation chips appear. Cancellation preserves accepted text, and the existing outer viewport follows content growth only while reader following is enabled.
+
+Validation on 2026-10-10: 118 backend tests, 11 frontend tests and eight Chromium scenarios pass, including streamed headings/code/tables followed by verified replacement, cancellation, safe HTML, PDF citations and reader scrolling. The frontend build passes. Live answer capture remains blocked by the configured provider credential returning HTTP 401 token_invalidated, confirmed on a requested retry.
 
 ## Decoded text adapter
 

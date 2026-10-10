@@ -8,3 +8,5 @@ playwright-report/
 bench/private/
 bench/results/local/
 bench-dist/
+bench/capture/*.pdf
+__pycache__/

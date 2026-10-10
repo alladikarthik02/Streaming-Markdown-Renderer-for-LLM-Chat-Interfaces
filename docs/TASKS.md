@@ -105,7 +105,7 @@ Commit: `perf: add replay benchmarks and regression reporting`
 
 ## Task 8 — Integration and release
 
-Status: adapter and release preparation complete; actual StudyChat integration, license selection and publication remain pending external inputs/authorization. Validation: 107 unit/component tests, 3 Chromium scenarios, clean 20-entry tarball consumer, typecheck and both builds pass.
+Status: adapter and release preparation complete; StudyChat integration completed in Task 9; license selection and publication remain pending owner decisions. Validation: 107 unit/component tests, 3 Chromium scenarios, clean 20-entry tarball consumer, typecheck and both builds pass.
 
 Deliver: integration against the actual StudyChat interface when supplied, license choice from owner, release checklist, and publication only when explicitly authorized.
 
@@ -114,3 +114,13 @@ Tests: clean consumer install/import, actual integration smoke test, no secrets/
 Challenge questions: What API assumptions couple this library to one application? What is semantic-versioning policy? What does the public package intentionally exclude?
 
 Commit: `docs: finalize integration and release guidance`
+
+## Task 9 — Integrate StudyChat
+
+Status: complete. Installed the reviewed local package tarball with a relative dependency and locked integrity. Connected decoded SSE deltas, final verified replacement, cancellation and the existing scroll viewport. Validation: frontend build, 118 backend tests, 11 frontend tests and eight browser scenarios pass. Integration is committed separately in the StudyChat repository.
+
+## Task 10 — Capture reproducible live evidence
+
+Status: capture tooling and 40 original workloads complete; live corpus and its performance evaluation blocked. Eight original lessons avoid publishing private coursework. Added actual SSE capture, arrival timing, exact visible-text token accounting, private staging and a separate real-corpus benchmark command. Two token-accounting tests pass; renderer typecheck and 107 tests pass.
+
+The pilot failed before answer generation. Provider diagnosis and the user-requested retry both returned HTTP 401 token_invalidated on 2026-10-10. Zero real answers were captured. A valid server credential and API restart are required before capture, review and real-corpus evaluation can finish. No target performance claim is supported by these uncollected recordings.

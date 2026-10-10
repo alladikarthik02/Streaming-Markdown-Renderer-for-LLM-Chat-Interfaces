@@ -1,0 +1,202 @@
+[
+  {
+    "id": "recorded-001-streaming",
+    "topic": "streaming",
+    "question": "Using the Streaming text interfaces lesson, write a study guide organized by all eight concepts. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-002-streaming",
+    "topic": "streaming",
+    "question": "Using the Streaming text interfaces lesson, write a design review with concrete failure cases. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-003-streaming",
+    "topic": "streaming",
+    "question": "Using the Streaming text interfaces lesson, write a worked tutorial with code and a comparison table. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-004-streaming",
+    "topic": "streaming",
+    "question": "Using the Streaming text interfaces lesson, write an interview preparation explanation with questions and answers. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-005-streaming",
+    "topic": "streaming",
+    "question": "Using the Streaming text interfaces lesson, write a test plan connecting invariants, failure modes and expected behavior. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-006-caching",
+    "topic": "caching",
+    "question": "Using the Caches and invalidation lesson, write a study guide organized by all eight concepts. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-007-caching",
+    "topic": "caching",
+    "question": "Using the Caches and invalidation lesson, write a design review with concrete failure cases. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-008-caching",
+    "topic": "caching",
+    "question": "Using the Caches and invalidation lesson, write a worked tutorial with code and a comparison table. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-009-caching",
+    "topic": "caching",
+    "question": "Using the Caches and invalidation lesson, write an interview preparation explanation with questions and answers. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-010-caching",
+    "topic": "caching",
+    "question": "Using the Caches and invalidation lesson, write a test plan connecting invariants, failure modes and expected behavior. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-011-queues",
+    "topic": "queues",
+    "question": "Using the Queues and backpressure lesson, write a study guide organized by all eight concepts. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-012-queues",
+    "topic": "queues",
+    "question": "Using the Queues and backpressure lesson, write a design review with concrete failure cases. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-013-queues",
+    "topic": "queues",
+    "question": "Using the Queues and backpressure lesson, write a worked tutorial with code and a comparison table. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-014-queues",
+    "topic": "queues",
+    "question": "Using the Queues and backpressure lesson, write an interview preparation explanation with questions and answers. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-015-queues",
+    "topic": "queues",
+    "question": "Using the Queues and backpressure lesson, write a test plan connecting invariants, failure modes and expected behavior. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-016-transactions",
+    "topic": "transactions",
+    "question": "Using the Transactions and concurrency lesson, write a study guide organized by all eight concepts. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-017-transactions",
+    "topic": "transactions",
+    "question": "Using the Transactions and concurrency lesson, write a design review with concrete failure cases. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-018-transactions",
+    "topic": "transactions",
+    "question": "Using the Transactions and concurrency lesson, write a worked tutorial with code and a comparison table. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-019-transactions",
+    "topic": "transactions",
+    "question": "Using the Transactions and concurrency lesson, write an interview preparation explanation with questions and answers. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-020-transactions",
+    "topic": "transactions",
+    "question": "Using the Transactions and concurrency lesson, write a test plan connecting invariants, failure modes and expected behavior. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-021-http",
+    "topic": "http",
+    "question": "Using the HTTP and event streaming lesson, write a study guide organized by all eight concepts. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-022-http",
+    "topic": "http",
+    "question": "Using the HTTP and event streaming lesson, write a design review with concrete failure cases. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-023-http",
+    "topic": "http",
+    "question": "Using the HTTP and event streaming lesson, write a worked tutorial with code and a comparison table. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-024-http",
+    "topic": "http",
+    "question": "Using the HTTP and event streaming lesson, write an interview preparation explanation with questions and answers. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-025-http",
+    "topic": "http",
+    "question": "Using the HTTP and event streaming lesson, write a test plan connecting invariants, failure modes and expected behavior. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-026-testing",
+    "topic": "testing",
+    "question": "Using the Testing streamed software lesson, write a study guide organized by all eight concepts. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-027-testing",
+    "topic": "testing",
+    "question": "Using the Testing streamed software lesson, write a design review with concrete failure cases. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-028-testing",
+    "topic": "testing",
+    "question": "Using the Testing streamed software lesson, write a worked tutorial with code and a comparison table. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-029-testing",
+    "topic": "testing",
+    "question": "Using the Testing streamed software lesson, write an interview preparation explanation with questions and answers. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-030-testing",
+    "topic": "testing",
+    "question": "Using the Testing streamed software lesson, write a test plan connecting invariants, failure modes and expected behavior. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-031-retrieval",
+    "topic": "retrieval",
+    "question": "Using the Retrieval and citation verification lesson, write a study guide organized by all eight concepts. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-032-retrieval",
+    "topic": "retrieval",
+    "question": "Using the Retrieval and citation verification lesson, write a design review with concrete failure cases. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-033-retrieval",
+    "topic": "retrieval",
+    "question": "Using the Retrieval and citation verification lesson, write a worked tutorial with code and a comparison table. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-034-retrieval",
+    "topic": "retrieval",
+    "question": "Using the Retrieval and citation verification lesson, write an interview preparation explanation with questions and answers. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-035-retrieval",
+    "topic": "retrieval",
+    "question": "Using the Retrieval and citation verification lesson, write a test plan connecting invariants, failure modes and expected behavior. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-036-security",
+    "topic": "security",
+    "question": "Using the Safe rendering boundaries lesson, write a study guide organized by all eight concepts. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-037-security",
+    "topic": "security",
+    "question": "Using the Safe rendering boundaries lesson, write a design review with concrete failure cases. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-038-security",
+    "topic": "security",
+    "question": "Using the Safe rendering boundaries lesson, write a worked tutorial with code and a comparison table. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-039-security",
+    "topic": "security",
+    "question": "Using the Safe rendering boundaries lesson, write an interview preparation explanation with questions and answers. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  },
+  {
+    "id": "recorded-040-security",
+    "topic": "security",
+    "question": "Using the Safe rendering boundaries lesson, write a test plan connecting invariants, failure modes and expected behavior. Cover every concept in the lesson in depth. Aim for roughly 3,000 output tokens, not a short summary. Use Markdown headings, a comparison table, the provided code where appropriate, and literal formulas when the lesson supplies them. Explain the relationships step by step without adding unsupported outside facts. Include the required page quotations. Be detailed about the specific examples and tradeoffs asked for; avoid repetitive padding."
+  }
+]

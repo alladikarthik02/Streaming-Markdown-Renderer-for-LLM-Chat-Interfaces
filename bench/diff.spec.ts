@@ -1,7 +1,9 @@
 import {test,expect} from '@playwright/test';
 import {readFileSync,readdirSync} from 'node:fs';
 import {validateRecording,requireRealCorpus} from './schema.mjs';
-const fixtures=readdirSync('bench/streams').filter(f=>f.endsWith('.json')).map(f=>validateRecording(JSON.parse(readFileSync(`bench/streams/${f}`,'utf8'))));
+const corpus=process.env.BENCH_CORPUS??'bench/streams';
+const fixtures=readdirSync(corpus).filter(f=>f.endsWith('.json')).map(f=>validateRecording(JSON.parse(readFileSync(`${corpus}/${f}`,'utf8'))));
+if(!fixtures.length)throw new Error('No recordings found in '+corpus);
 for(const fixture of fixtures)test(`final parity ${fixture.id}`,async({page})=>{
   await page.goto('/');await page.waitForFunction(()=>!!window.bench,undefined,{timeout:10_000});
   const result=await page.evaluate(chunks=>window.bench.diff(chunks),fixture.chunks);

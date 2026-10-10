@@ -11,8 +11,8 @@
 
 ## External prerequisites still open
 
-1. Supply the actual StudyChat source and transport contract to complete application-level integration.
-2. Supply or capture 40 authorized, reviewed real answers with token/timing metadata. Synthetic fixtures cannot satisfy this evidence requirement.
+1. StudyChat integration is complete and covered by eight application browser scenarios.
+2. Replace the rejected server credential, restart StudyChat and capture 40 reviewed live answers using bench/capture. Zero recordings exist; the repeated provider response was HTTP 401 token_invalidated. Synthetic workloads cannot satisfy this evidence requirement.
 3. Choose a license. The repository currently declares UNLICENSED; no license grant is implied.
 4. Explicitly authorize npm publication and choose the final package name/account/access. Nothing has been published to npm or deployed.
 
@@ -28,10 +28,10 @@ pnpm verify:package
 pnpm bench
 ```
 
-Run `REQUIRE_REAL_CORPUS=1 pnpm bench:smoke` when the real corpus exists. Review GitHub Actions on the release commit and any prior-revision performance comparison. Review the npm tarball contents and documentation, and verify no private captures or credentials are included.
+Run `pnpm bench:recorded` when the reviewed real corpus exists. Review GitHub Actions on the release commit and any prior-revision performance comparison. Review the npm tarball contents and documentation, and verify no private captures or credentials are included.
 
 Version 0.1 is experimental: changes to the public API or rendering/security defaults require release notes and a minor version bump before 1.0. Patch releases should preserve those contracts. Pin consumers to a reviewed version. React 18 compatibility and non-Chromium browsers are declared limitations until tested; the tested runtime uses the locked React 19 version.
 
 ## Evidence wording
 
-The measured synthetic benchmark supports only claims scoped to its fixtures, hardware and profiling method. Do not claim forty real recordings, a particular 45-to-7 millisecond result, dropped frames in StudyChat, or completed StudyChat integration until those facts are verified. The table explicitly reports slower reference-heavy fallback behavior relative to full marked rendering.
+The measured synthetic benchmark supports only claims scoped to its fixtures, hardware and profiling method. Do not claim forty real recordings, a particular 45-to-7 millisecond result, dropped frames in StudyChat until those facts are verified. The table explicitly reports slower reference-heavy fallback behavior relative to full marked rendering.

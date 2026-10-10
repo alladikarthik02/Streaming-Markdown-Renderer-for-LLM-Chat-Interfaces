@@ -32,7 +32,8 @@
     "bench:build": "vite build --config vite.bench.config.ts",
     "bench": "pnpm bench:build && playwright test --config playwright.bench.config.ts",
     "bench:smoke": "pnpm bench:build && BENCH_SMOKE=1 playwright test --config playwright.bench.config.ts",
-    "bench:gate": "node bench/gate.mjs"
+    "bench:gate": "node bench/gate.mjs",
+    "bench:recorded": "REQUIRE_REAL_CORPUS=1 BENCH_CORPUS=bench/recordings BENCH_TIMING=tokens-100 pnpm bench"
   },
   "peerDependencies": {
     "react": ">=18.3.0 <20",
