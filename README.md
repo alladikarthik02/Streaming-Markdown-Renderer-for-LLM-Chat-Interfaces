@@ -59,4 +59,4 @@ An append returns false after a terminal state or when its entire chunk exceeds 
 - [Tasks and validation](docs/TASKS.md)
 - [Challenges and interview explanations](docs/CHALLENGES.md)
 
-Performance numbers remain unverified until benchmark raw outputs are committed. Real conversation recordings and StudyChat source were not supplied. Current license status is UNLICENSED pending the owner's choice.
+Five synthetic fixtures have been measured against full marked rendering, React Markdown and Streamdown. See [results](bench/RESULTS.md) and [methodology](bench/README.md). Results include slower reference-heavy fallback behavior; they do not establish a universal speedup or real-answer performance. Real conversation recordings and StudyChat source were not supplied. Current license status is UNLICENSED pending the owner's choice.

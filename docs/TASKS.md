@@ -91,7 +91,7 @@ Commit: `test: harden stream correctness and package integration`
 
 ## Task 7 — Honest comparative performance evaluation
 
-Status: pending; real-corpus portion awaits recordings. Depends on Task 6.
+Status: implementation and synthetic evaluation complete; 40-real-recording evidence pending external data. Validation: 100 unit/component tests and 11 benchmark/parity checks pass; 60 measured replays plus 20 warmups at 4x CPU slowdown, raw outputs committed. CI compares five streams with the prior revision on the same runner when that revision has the harness.
 
 Deliver: recording schema/validation, labeled synthetic replay fixtures, full rerender and Streamdown baselines, equivalent-renderer control, production profiling harness, raw outputs, p95/long-task reports, five-stream CI gate with an explicit baseline policy.
 

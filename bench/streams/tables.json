@@ -1,0 +1,459 @@
+{
+  "id": "tables",
+  "provenance": "synthetic",
+  "description": "Deterministic generated fixture; not a real answer and no model token count.",
+  "chunks": [
+    {
+      "text": "| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | ",
+      "atMs": 10
+    },
+    {
+      "text": "Preserves attention |\n\nThe next section continues the explanation.\n\n| Feature | ",
+      "atMs": 20
+    },
+    {
+      "text": "Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | Preserves at",
+      "atMs": 30
+    },
+    {
+      "text": "tention |\n\nThe next section continues the explanation.\n\n| Feature | Result |\n| -",
+      "atMs": 40
+    },
+    {
+      "text": "-- | --- |\n| Streaming | Batches frames |\n| Scrolling | Preserves attention |\n\nT",
+      "atMs": 50
+    },
+    {
+      "text": "he next section continues the explanation.\n\n| Feature | Result |\n| --- | --- |\n|",
+      "atMs": 60
+    },
+    {
+      "text": " Streaming | Batches frames |\n| Scrolling | Preserves attention |\n\nThe next sect",
+      "atMs": 70
+    },
+    {
+      "text": "ion continues the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming |",
+      "atMs": 80
+    },
+    {
+      "text": " Batches frames |\n| Scrolling | Preserves attention |\n\nThe next section continue",
+      "atMs": 90
+    },
+    {
+      "text": "s the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches fra",
+      "atMs": 100
+    },
+    {
+      "text": "mes |\n| Scrolling | Preserves attention |\n\nThe next section continues the explan",
+      "atMs": 110
+    },
+    {
+      "text": "ation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scro",
+      "atMs": 120
+    },
+    {
+      "text": "lling | Preserves attention |\n\nThe next section continues the explanation.\n\n| Fe",
+      "atMs": 130
+    },
+    {
+      "text": "ature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | Pres",
+      "atMs": 140
+    },
+    {
+      "text": "erves attention |\n\nThe next section continues the explanation.\n\n| Feature | Resu",
+      "atMs": 150
+    },
+    {
+      "text": "lt |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | Preserves attent",
+      "atMs": 160
+    },
+    {
+      "text": "ion |\n\nThe next section continues the explanation.\n\n| Feature | Result |\n| --- |",
+      "atMs": 170
+    },
+    {
+      "text": " --- |\n| Streaming | Batches frames |\n| Scrolling | Preserves attention |\n\nThe n",
+      "atMs": 180
+    },
+    {
+      "text": "ext section continues the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Str",
+      "atMs": 190
+    },
+    {
+      "text": "eaming | Batches frames |\n| Scrolling | Preserves attention |\n\nThe next section ",
+      "atMs": 200
+    },
+    {
+      "text": "continues the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Bat",
+      "atMs": 210
+    },
+    {
+      "text": "ches frames |\n| Scrolling | Preserves attention |\n\nThe next section continues th",
+      "atMs": 220
+    },
+    {
+      "text": "e explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames ",
+      "atMs": 230
+    },
+    {
+      "text": "|\n| Scrolling | Preserves attention |\n\nThe next section continues the explanatio",
+      "atMs": 240
+    },
+    {
+      "text": "n.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrollin",
+      "atMs": 250
+    },
+    {
+      "text": "g | Preserves attention |\n\nThe next section continues the explanation.\n\n| Featur",
+      "atMs": 260
+    },
+    {
+      "text": "e | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | Preserve",
+      "atMs": 270
+    },
+    {
+      "text": "s attention |\n\nThe next section continues the explanation.\n\n| Feature | Result |",
+      "atMs": 280
+    },
+    {
+      "text": "\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | Preserves attention ",
+      "atMs": 290
+    },
+    {
+      "text": "|\n\nThe next section continues the explanation.\n\n| Feature | Result |\n| --- | ---",
+      "atMs": 300
+    },
+    {
+      "text": " |\n| Streaming | Batches frames |\n| Scrolling | Preserves attention |\n\nThe next ",
+      "atMs": 310
+    },
+    {
+      "text": "section continues the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streami",
+      "atMs": 320
+    },
+    {
+      "text": "ng | Batches frames |\n| Scrolling | Preserves attention |\n\nThe next section cont",
+      "atMs": 330
+    },
+    {
+      "text": "inues the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches",
+      "atMs": 340
+    },
+    {
+      "text": " frames |\n| Scrolling | Preserves attention |\n\nThe next section continues the ex",
+      "atMs": 350
+    },
+    {
+      "text": "planation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| ",
+      "atMs": 360
+    },
+    {
+      "text": "Scrolling | Preserves attention |\n\nThe next section continues the explanation.\n\n",
+      "atMs": 370
+    },
+    {
+      "text": "| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | ",
+      "atMs": 380
+    },
+    {
+      "text": "Preserves attention |\n\nThe next section continues the explanation.\n\n| Feature | ",
+      "atMs": 390
+    },
+    {
+      "text": "Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | Preserves at",
+      "atMs": 400
+    },
+    {
+      "text": "tention |\n\nThe next section continues the explanation.\n\n| Feature | Result |\n| -",
+      "atMs": 410
+    },
+    {
+      "text": "-- | --- |\n| Streaming | Batches frames |\n| Scrolling | Preserves attention |\n\nT",
+      "atMs": 420
+    },
+    {
+      "text": "he next section continues the explanation.\n\n| Feature | Result |\n| --- | --- |\n|",
+      "atMs": 430
+    },
+    {
+      "text": " Streaming | Batches frames |\n| Scrolling | Preserves attention |\n\nThe next sect",
+      "atMs": 440
+    },
+    {
+      "text": "ion continues the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming |",
+      "atMs": 450
+    },
+    {
+      "text": " Batches frames |\n| Scrolling | Preserves attention |\n\nThe next section continue",
+      "atMs": 460
+    },
+    {
+      "text": "s the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches fra",
+      "atMs": 470
+    },
+    {
+      "text": "mes |\n| Scrolling | Preserves attention |\n\nThe next section continues the explan",
+      "atMs": 480
+    },
+    {
+      "text": "ation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scro",
+      "atMs": 490
+    },
+    {
+      "text": "lling | Preserves attention |\n\nThe next section continues the explanation.\n\n| Fe",
+      "atMs": 500
+    },
+    {
+      "text": "ature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | Pres",
+      "atMs": 510
+    },
+    {
+      "text": "erves attention |\n\nThe next section continues the explanation.\n\n| Feature | Resu",
+      "atMs": 520
+    },
+    {
+      "text": "lt |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | Preserves attent",
+      "atMs": 530
+    },
+    {
+      "text": "ion |\n\nThe next section continues the explanation.\n\n| Feature | Result |\n| --- |",
+      "atMs": 540
+    },
+    {
+      "text": " --- |\n| Streaming | Batches frames |\n| Scrolling | Preserves attention |\n\nThe n",
+      "atMs": 550
+    },
+    {
+      "text": "ext section continues the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Str",
+      "atMs": 560
+    },
+    {
+      "text": "eaming | Batches frames |\n| Scrolling | Preserves attention |\n\nThe next section ",
+      "atMs": 570
+    },
+    {
+      "text": "continues the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Bat",
+      "atMs": 580
+    },
+    {
+      "text": "ches frames |\n| Scrolling | Preserves attention |\n\nThe next section continues th",
+      "atMs": 590
+    },
+    {
+      "text": "e explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames ",
+      "atMs": 600
+    },
+    {
+      "text": "|\n| Scrolling | Preserves attention |\n\nThe next section continues the explanatio",
+      "atMs": 610
+    },
+    {
+      "text": "n.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrollin",
+      "atMs": 620
+    },
+    {
+      "text": "g | Preserves attention |\n\nThe next section continues the explanation.\n\n| Featur",
+      "atMs": 630
+    },
+    {
+      "text": "e | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | Preserve",
+      "atMs": 640
+    },
+    {
+      "text": "s attention |\n\nThe next section continues the explanation.\n\n| Feature | Result |",
+      "atMs": 650
+    },
+    {
+      "text": "\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | Preserves attention ",
+      "atMs": 660
+    },
+    {
+      "text": "|\n\nThe next section continues the explanation.\n\n| Feature | Result |\n| --- | ---",
+      "atMs": 670
+    },
+    {
+      "text": " |\n| Streaming | Batches frames |\n| Scrolling | Preserves attention |\n\nThe next ",
+      "atMs": 680
+    },
+    {
+      "text": "section continues the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streami",
+      "atMs": 690
+    },
+    {
+      "text": "ng | Batches frames |\n| Scrolling | Preserves attention |\n\nThe next section cont",
+      "atMs": 700
+    },
+    {
+      "text": "inues the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches",
+      "atMs": 710
+    },
+    {
+      "text": " frames |\n| Scrolling | Preserves attention |\n\nThe next section continues the ex",
+      "atMs": 720
+    },
+    {
+      "text": "planation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| ",
+      "atMs": 730
+    },
+    {
+      "text": "Scrolling | Preserves attention |\n\nThe next section continues the explanation.\n\n",
+      "atMs": 740
+    },
+    {
+      "text": "| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | ",
+      "atMs": 750
+    },
+    {
+      "text": "Preserves attention |\n\nThe next section continues the explanation.\n\n| Feature | ",
+      "atMs": 760
+    },
+    {
+      "text": "Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | Preserves at",
+      "atMs": 770
+    },
+    {
+      "text": "tention |\n\nThe next section continues the explanation.\n\n| Feature | Result |\n| -",
+      "atMs": 780
+    },
+    {
+      "text": "-- | --- |\n| Streaming | Batches frames |\n| Scrolling | Preserves attention |\n\nT",
+      "atMs": 790
+    },
+    {
+      "text": "he next section continues the explanation.\n\n| Feature | Result |\n| --- | --- |\n|",
+      "atMs": 800
+    },
+    {
+      "text": " Streaming | Batches frames |\n| Scrolling | Preserves attention |\n\nThe next sect",
+      "atMs": 810
+    },
+    {
+      "text": "ion continues the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming |",
+      "atMs": 820
+    },
+    {
+      "text": " Batches frames |\n| Scrolling | Preserves attention |\n\nThe next section continue",
+      "atMs": 830
+    },
+    {
+      "text": "s the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches fra",
+      "atMs": 840
+    },
+    {
+      "text": "mes |\n| Scrolling | Preserves attention |\n\nThe next section continues the explan",
+      "atMs": 850
+    },
+    {
+      "text": "ation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scro",
+      "atMs": 860
+    },
+    {
+      "text": "lling | Preserves attention |\n\nThe next section continues the explanation.\n\n| Fe",
+      "atMs": 870
+    },
+    {
+      "text": "ature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | Pres",
+      "atMs": 880
+    },
+    {
+      "text": "erves attention |\n\nThe next section continues the explanation.\n\n| Feature | Resu",
+      "atMs": 890
+    },
+    {
+      "text": "lt |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | Preserves attent",
+      "atMs": 900
+    },
+    {
+      "text": "ion |\n\nThe next section continues the explanation.\n\n| Feature | Result |\n| --- |",
+      "atMs": 910
+    },
+    {
+      "text": " --- |\n| Streaming | Batches frames |\n| Scrolling | Preserves attention |\n\nThe n",
+      "atMs": 920
+    },
+    {
+      "text": "ext section continues the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Str",
+      "atMs": 930
+    },
+    {
+      "text": "eaming | Batches frames |\n| Scrolling | Preserves attention |\n\nThe next section ",
+      "atMs": 940
+    },
+    {
+      "text": "continues the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Bat",
+      "atMs": 950
+    },
+    {
+      "text": "ches frames |\n| Scrolling | Preserves attention |\n\nThe next section continues th",
+      "atMs": 960
+    },
+    {
+      "text": "e explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames ",
+      "atMs": 970
+    },
+    {
+      "text": "|\n| Scrolling | Preserves attention |\n\nThe next section continues the explanatio",
+      "atMs": 980
+    },
+    {
+      "text": "n.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrollin",
+      "atMs": 990
+    },
+    {
+      "text": "g | Preserves attention |\n\nThe next section continues the explanation.\n\n| Featur",
+      "atMs": 1000
+    },
+    {
+      "text": "e | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | Preserve",
+      "atMs": 1010
+    },
+    {
+      "text": "s attention |\n\nThe next section continues the explanation.\n\n| Feature | Result |",
+      "atMs": 1020
+    },
+    {
+      "text": "\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | Preserves attention ",
+      "atMs": 1030
+    },
+    {
+      "text": "|\n\nThe next section continues the explanation.\n\n| Feature | Result |\n| --- | ---",
+      "atMs": 1040
+    },
+    {
+      "text": " |\n| Streaming | Batches frames |\n| Scrolling | Preserves attention |\n\nThe next ",
+      "atMs": 1050
+    },
+    {
+      "text": "section continues the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streami",
+      "atMs": 1060
+    },
+    {
+      "text": "ng | Batches frames |\n| Scrolling | Preserves attention |\n\nThe next section cont",
+      "atMs": 1070
+    },
+    {
+      "text": "inues the explanation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches",
+      "atMs": 1080
+    },
+    {
+      "text": " frames |\n| Scrolling | Preserves attention |\n\nThe next section continues the ex",
+      "atMs": 1090
+    },
+    {
+      "text": "planation.\n\n| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| ",
+      "atMs": 1100
+    },
+    {
+      "text": "Scrolling | Preserves attention |\n\nThe next section continues the explanation.\n\n",
+      "atMs": 1110
+    },
+    {
+      "text": "| Feature | Result |\n| --- | --- |\n| Streaming | Batches frames |\n| Scrolling | ",
+      "atMs": 1120
+    },
+    {
+      "text": "Preserves attention |\n\nThe next section continues the explanation.\n\n",
+      "atMs": 1130
+    }
+  ]
+}

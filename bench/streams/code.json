@@ -1,0 +1,459 @@
+{
+  "id": "code",
+  "provenance": "synthetic",
+  "description": "Deterministic generated fixture; not a real answer and no model token count.",
+  "chunks": [
+    {
+      "text": "### Implementation\n\n```typescript\nconst value = 42;\nfunction double(n: number) {",
+      "atMs": 10
+    },
+    {
+      "text": " return n * 2; }\nconsole.log(double(value));\n```\n\nA closed fence can now be high",
+      "atMs": 20
+    },
+    {
+      "text": "lighted.\n\n### Implementation\n\n```typescript\nconst value = 42;\nfunction double(n:",
+      "atMs": 30
+    },
+    {
+      "text": " number) { return n * 2; }\nconsole.log(double(value));\n```\n\nA closed fence can n",
+      "atMs": 40
+    },
+    {
+      "text": "ow be highlighted.\n\n### Implementation\n\n```typescript\nconst value = 42;\nfunction",
+      "atMs": 50
+    },
+    {
+      "text": " double(n: number) { return n * 2; }\nconsole.log(double(value));\n```\n\nA closed f",
+      "atMs": 60
+    },
+    {
+      "text": "ence can now be highlighted.\n\n### Implementation\n\n```typescript\nconst value = 42",
+      "atMs": 70
+    },
+    {
+      "text": ";\nfunction double(n: number) { return n * 2; }\nconsole.log(double(value));\n```\n\n",
+      "atMs": 80
+    },
+    {
+      "text": "A closed fence can now be highlighted.\n\n### Implementation\n\n```typescript\nconst ",
+      "atMs": 90
+    },
+    {
+      "text": "value = 42;\nfunction double(n: number) { return n * 2; }\nconsole.log(double(valu",
+      "atMs": 100
+    },
+    {
+      "text": "e));\n```\n\nA closed fence can now be highlighted.\n\n### Implementation\n\n```typescr",
+      "atMs": 110
+    },
+    {
+      "text": "ipt\nconst value = 42;\nfunction double(n: number) { return n * 2; }\nconsole.log(d",
+      "atMs": 120
+    },
+    {
+      "text": "ouble(value));\n```\n\nA closed fence can now be highlighted.\n\n### Implementation\n\n",
+      "atMs": 130
+    },
+    {
+      "text": "```typescript\nconst value = 42;\nfunction double(n: number) { return n * 2; }\ncon",
+      "atMs": 140
+    },
+    {
+      "text": "sole.log(double(value));\n```\n\nA closed fence can now be highlighted.\n\n### Implem",
+      "atMs": 150
+    },
+    {
+      "text": "entation\n\n```typescript\nconst value = 42;\nfunction double(n: number) { return n ",
+      "atMs": 160
+    },
+    {
+      "text": "* 2; }\nconsole.log(double(value));\n```\n\nA closed fence can now be highlighted.\n\n",
+      "atMs": 170
+    },
+    {
+      "text": "### Implementation\n\n```typescript\nconst value = 42;\nfunction double(n: number) {",
+      "atMs": 180
+    },
+    {
+      "text": " return n * 2; }\nconsole.log(double(value));\n```\n\nA closed fence can now be high",
+      "atMs": 190
+    },
+    {
+      "text": "lighted.\n\n### Implementation\n\n```typescript\nconst value = 42;\nfunction double(n:",
+      "atMs": 200
+    },
+    {
+      "text": " number) { return n * 2; }\nconsole.log(double(value));\n```\n\nA closed fence can n",
+      "atMs": 210
+    },
+    {
+      "text": "ow be highlighted.\n\n### Implementation\n\n```typescript\nconst value = 42;\nfunction",
+      "atMs": 220
+    },
+    {
+      "text": " double(n: number) { return n * 2; }\nconsole.log(double(value));\n```\n\nA closed f",
+      "atMs": 230
+    },
+    {
+      "text": "ence can now be highlighted.\n\n### Implementation\n\n```typescript\nconst value = 42",
+      "atMs": 240
+    },
+    {
+      "text": ";\nfunction double(n: number) { return n * 2; }\nconsole.log(double(value));\n```\n\n",
+      "atMs": 250
+    },
+    {
+      "text": "A closed fence can now be highlighted.\n\n### Implementation\n\n```typescript\nconst ",
+      "atMs": 260
+    },
+    {
+      "text": "value = 42;\nfunction double(n: number) { return n * 2; }\nconsole.log(double(valu",
+      "atMs": 270
+    },
+    {
+      "text": "e));\n```\n\nA closed fence can now be highlighted.\n\n### Implementation\n\n```typescr",
+      "atMs": 280
+    },
+    {
+      "text": "ipt\nconst value = 42;\nfunction double(n: number) { return n * 2; }\nconsole.log(d",
+      "atMs": 290
+    },
+    {
+      "text": "ouble(value));\n```\n\nA closed fence can now be highlighted.\n\n### Implementation\n\n",
+      "atMs": 300
+    },
+    {
+      "text": "```typescript\nconst value = 42;\nfunction double(n: number) { return n * 2; }\ncon",
+      "atMs": 310
+    },
+    {
+      "text": "sole.log(double(value));\n```\n\nA closed fence can now be highlighted.\n\n### Implem",
+      "atMs": 320
+    },
+    {
+      "text": "entation\n\n```typescript\nconst value = 42;\nfunction double(n: number) { return n ",
+      "atMs": 330
+    },
+    {
+      "text": "* 2; }\nconsole.log(double(value));\n```\n\nA closed fence can now be highlighted.\n\n",
+      "atMs": 340
+    },
+    {
+      "text": "### Implementation\n\n```typescript\nconst value = 42;\nfunction double(n: number) {",
+      "atMs": 350
+    },
+    {
+      "text": " return n * 2; }\nconsole.log(double(value));\n```\n\nA closed fence can now be high",
+      "atMs": 360
+    },
+    {
+      "text": "lighted.\n\n### Implementation\n\n```typescript\nconst value = 42;\nfunction double(n:",
+      "atMs": 370
+    },
+    {
+      "text": " number) { return n * 2; }\nconsole.log(double(value));\n```\n\nA closed fence can n",
+      "atMs": 380
+    },
+    {
+      "text": "ow be highlighted.\n\n### Implementation\n\n```typescript\nconst value = 42;\nfunction",
+      "atMs": 390
+    },
+    {
+      "text": " double(n: number) { return n * 2; }\nconsole.log(double(value));\n```\n\nA closed f",
+      "atMs": 400
+    },
+    {
+      "text": "ence can now be highlighted.\n\n### Implementation\n\n```typescript\nconst value = 42",
+      "atMs": 410
+    },
+    {
+      "text": ";\nfunction double(n: number) { return n * 2; }\nconsole.log(double(value));\n```\n\n",
+      "atMs": 420
+    },
+    {
+      "text": "A closed fence can now be highlighted.\n\n### Implementation\n\n```typescript\nconst ",
+      "atMs": 430
+    },
+    {
+      "text": "value = 42;\nfunction double(n: number) { return n * 2; }\nconsole.log(double(valu",
+      "atMs": 440
+    },
+    {
+      "text": "e));\n```\n\nA closed fence can now be highlighted.\n\n### Implementation\n\n```typescr",
+      "atMs": 450
+    },
+    {
+      "text": "ipt\nconst value = 42;\nfunction double(n: number) { return n * 2; }\nconsole.log(d",
+      "atMs": 460
+    },
+    {
+      "text": "ouble(value));\n```\n\nA closed fence can now be highlighted.\n\n### Implementation\n\n",
+      "atMs": 470
+    },
+    {
+      "text": "```typescript\nconst value = 42;\nfunction double(n: number) { return n * 2; }\ncon",
+      "atMs": 480
+    },
+    {
+      "text": "sole.log(double(value));\n```\n\nA closed fence can now be highlighted.\n\n### Implem",
+      "atMs": 490
+    },
+    {
+      "text": "entation\n\n```typescript\nconst value = 42;\nfunction double(n: number) { return n ",
+      "atMs": 500
+    },
+    {
+      "text": "* 2; }\nconsole.log(double(value));\n```\n\nA closed fence can now be highlighted.\n\n",
+      "atMs": 510
+    },
+    {
+      "text": "### Implementation\n\n```typescript\nconst value = 42;\nfunction double(n: number) {",
+      "atMs": 520
+    },
+    {
+      "text": " return n * 2; }\nconsole.log(double(value));\n```\n\nA closed fence can now be high",
+      "atMs": 530
+    },
+    {
+      "text": "lighted.\n\n### Implementation\n\n```typescript\nconst value = 42;\nfunction double(n:",
+      "atMs": 540
+    },
+    {
+      "text": " number) { return n * 2; }\nconsole.log(double(value));\n```\n\nA closed fence can n",
+      "atMs": 550
+    },
+    {
+      "text": "ow be highlighted.\n\n### Implementation\n\n```typescript\nconst value = 42;\nfunction",
+      "atMs": 560
+    },
+    {
+      "text": " double(n: number) { return n * 2; }\nconsole.log(double(value));\n```\n\nA closed f",
+      "atMs": 570
+    },
+    {
+      "text": "ence can now be highlighted.\n\n### Implementation\n\n```typescript\nconst value = 42",
+      "atMs": 580
+    },
+    {
+      "text": ";\nfunction double(n: number) { return n * 2; }\nconsole.log(double(value));\n```\n\n",
+      "atMs": 590
+    },
+    {
+      "text": "A closed fence can now be highlighted.\n\n### Implementation\n\n```typescript\nconst ",
+      "atMs": 600
+    },
+    {
+      "text": "value = 42;\nfunction double(n: number) { return n * 2; }\nconsole.log(double(valu",
+      "atMs": 610
+    },
+    {
+      "text": "e));\n```\n\nA closed fence can now be highlighted.\n\n### Implementation\n\n```typescr",
+      "atMs": 620
+    },
+    {
+      "text": "ipt\nconst value = 42;\nfunction double(n: number) { return n * 2; }\nconsole.log(d",
+      "atMs": 630
+    },
+    {
+      "text": "ouble(value));\n```\n\nA closed fence can now be highlighted.\n\n### Implementation\n\n",
+      "atMs": 640
+    },
+    {
+      "text": "```typescript\nconst value = 42;\nfunction double(n: number) { return n * 2; }\ncon",
+      "atMs": 650
+    },
+    {
+      "text": "sole.log(double(value));\n```\n\nA closed fence can now be highlighted.\n\n### Implem",
+      "atMs": 660
+    },
+    {
+      "text": "entation\n\n```typescript\nconst value = 42;\nfunction double(n: number) { return n ",
+      "atMs": 670
+    },
+    {
+      "text": "* 2; }\nconsole.log(double(value));\n```\n\nA closed fence can now be highlighted.\n\n",
+      "atMs": 680
+    },
+    {
+      "text": "### Implementation\n\n```typescript\nconst value = 42;\nfunction double(n: number) {",
+      "atMs": 690
+    },
+    {
+      "text": " return n * 2; }\nconsole.log(double(value));\n```\n\nA closed fence can now be high",
+      "atMs": 700
+    },
+    {
+      "text": "lighted.\n\n### Implementation\n\n```typescript\nconst value = 42;\nfunction double(n:",
+      "atMs": 710
+    },
+    {
+      "text": " number) { return n * 2; }\nconsole.log(double(value));\n```\n\nA closed fence can n",
+      "atMs": 720
+    },
+    {
+      "text": "ow be highlighted.\n\n### Implementation\n\n```typescript\nconst value = 42;\nfunction",
+      "atMs": 730
+    },
+    {
+      "text": " double(n: number) { return n * 2; }\nconsole.log(double(value));\n```\n\nA closed f",
+      "atMs": 740
+    },
+    {
+      "text": "ence can now be highlighted.\n\n### Implementation\n\n```typescript\nconst value = 42",
+      "atMs": 750
+    },
+    {
+      "text": ";\nfunction double(n: number) { return n * 2; }\nconsole.log(double(value));\n```\n\n",
+      "atMs": 760
+    },
+    {
+      "text": "A closed fence can now be highlighted.\n\n### Implementation\n\n```typescript\nconst ",
+      "atMs": 770
+    },
+    {
+      "text": "value = 42;\nfunction double(n: number) { return n * 2; }\nconsole.log(double(valu",
+      "atMs": 780
+    },
+    {
+      "text": "e));\n```\n\nA closed fence can now be highlighted.\n\n### Implementation\n\n```typescr",
+      "atMs": 790
+    },
+    {
+      "text": "ipt\nconst value = 42;\nfunction double(n: number) { return n * 2; }\nconsole.log(d",
+      "atMs": 800
+    },
+    {
+      "text": "ouble(value));\n```\n\nA closed fence can now be highlighted.\n\n### Implementation\n\n",
+      "atMs": 810
+    },
+    {
+      "text": "```typescript\nconst value = 42;\nfunction double(n: number) { return n * 2; }\ncon",
+      "atMs": 820
+    },
+    {
+      "text": "sole.log(double(value));\n```\n\nA closed fence can now be highlighted.\n\n### Implem",
+      "atMs": 830
+    },
+    {
+      "text": "entation\n\n```typescript\nconst value = 42;\nfunction double(n: number) { return n ",
+      "atMs": 840
+    },
+    {
+      "text": "* 2; }\nconsole.log(double(value));\n```\n\nA closed fence can now be highlighted.\n\n",
+      "atMs": 850
+    },
+    {
+      "text": "### Implementation\n\n```typescript\nconst value = 42;\nfunction double(n: number) {",
+      "atMs": 860
+    },
+    {
+      "text": " return n * 2; }\nconsole.log(double(value));\n```\n\nA closed fence can now be high",
+      "atMs": 870
+    },
+    {
+      "text": "lighted.\n\n### Implementation\n\n```typescript\nconst value = 42;\nfunction double(n:",
+      "atMs": 880
+    },
+    {
+      "text": " number) { return n * 2; }\nconsole.log(double(value));\n```\n\nA closed fence can n",
+      "atMs": 890
+    },
+    {
+      "text": "ow be highlighted.\n\n### Implementation\n\n```typescript\nconst value = 42;\nfunction",
+      "atMs": 900
+    },
+    {
+      "text": " double(n: number) { return n * 2; }\nconsole.log(double(value));\n```\n\nA closed f",
+      "atMs": 910
+    },
+    {
+      "text": "ence can now be highlighted.\n\n### Implementation\n\n```typescript\nconst value = 42",
+      "atMs": 920
+    },
+    {
+      "text": ";\nfunction double(n: number) { return n * 2; }\nconsole.log(double(value));\n```\n\n",
+      "atMs": 930
+    },
+    {
+      "text": "A closed fence can now be highlighted.\n\n### Implementation\n\n```typescript\nconst ",
+      "atMs": 940
+    },
+    {
+      "text": "value = 42;\nfunction double(n: number) { return n * 2; }\nconsole.log(double(valu",
+      "atMs": 950
+    },
+    {
+      "text": "e));\n```\n\nA closed fence can now be highlighted.\n\n### Implementation\n\n```typescr",
+      "atMs": 960
+    },
+    {
+      "text": "ipt\nconst value = 42;\nfunction double(n: number) { return n * 2; }\nconsole.log(d",
+      "atMs": 970
+    },
+    {
+      "text": "ouble(value));\n```\n\nA closed fence can now be highlighted.\n\n### Implementation\n\n",
+      "atMs": 980
+    },
+    {
+      "text": "```typescript\nconst value = 42;\nfunction double(n: number) { return n * 2; }\ncon",
+      "atMs": 990
+    },
+    {
+      "text": "sole.log(double(value));\n```\n\nA closed fence can now be highlighted.\n\n### Implem",
+      "atMs": 1000
+    },
+    {
+      "text": "entation\n\n```typescript\nconst value = 42;\nfunction double(n: number) { return n ",
+      "atMs": 1010
+    },
+    {
+      "text": "* 2; }\nconsole.log(double(value));\n```\n\nA closed fence can now be highlighted.\n\n",
+      "atMs": 1020
+    },
+    {
+      "text": "### Implementation\n\n```typescript\nconst value = 42;\nfunction double(n: number) {",
+      "atMs": 1030
+    },
+    {
+      "text": " return n * 2; }\nconsole.log(double(value));\n```\n\nA closed fence can now be high",
+      "atMs": 1040
+    },
+    {
+      "text": "lighted.\n\n### Implementation\n\n```typescript\nconst value = 42;\nfunction double(n:",
+      "atMs": 1050
+    },
+    {
+      "text": " number) { return n * 2; }\nconsole.log(double(value));\n```\n\nA closed fence can n",
+      "atMs": 1060
+    },
+    {
+      "text": "ow be highlighted.\n\n### Implementation\n\n```typescript\nconst value = 42;\nfunction",
+      "atMs": 1070
+    },
+    {
+      "text": " double(n: number) { return n * 2; }\nconsole.log(double(value));\n```\n\nA closed f",
+      "atMs": 1080
+    },
+    {
+      "text": "ence can now be highlighted.\n\n### Implementation\n\n```typescript\nconst value = 42",
+      "atMs": 1090
+    },
+    {
+      "text": ";\nfunction double(n: number) { return n * 2; }\nconsole.log(double(value));\n```\n\n",
+      "atMs": 1100
+    },
+    {
+      "text": "A closed fence can now be highlighted.\n\n### Implementation\n\n```typescript\nconst ",
+      "atMs": 1110
+    },
+    {
+      "text": "value = 42;\nfunction double(n: number) { return n * 2; }\nconsole.log(double(valu",
+      "atMs": 1120
+    },
+    {
+      "text": "e));\n```\n\nA closed fence can now be highlighted.\n\n",
+      "atMs": 1130
+    }
+  ]
+}

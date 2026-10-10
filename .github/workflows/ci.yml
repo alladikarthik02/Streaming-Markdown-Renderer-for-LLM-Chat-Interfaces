@@ -5,6 +5,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: pnpm/action-setup@v4
       - uses: actions/setup-node@v4
         with:
@@ -14,3 +16,25 @@ jobs:
       - run: pnpm check
       - run: pnpm exec playwright install --with-deps chromium
       - run: pnpm test:browser
+      - run: pnpm verify:package
+      - run: pnpm bench:smoke
+      - name: Compare prior revision on the same runner
+        env:
+          BASE_REF: ${{ github.event.pull_request.base.sha || github.event.before }}
+        shell: bash
+        run: |
+          if [[ "$BASE_REF" =~ ^[0-9a-f]{40}$ ]] && git cat-file -e "$BASE_REF:bench/replay.spec.ts" 2>/dev/null; then
+            baseline_dir="$RUNNER_TEMP/stream-md-baseline"
+            git worktree add --detach "$baseline_dir" "$BASE_REF"
+            pnpm --dir "$baseline_dir" install --frozen-lockfile
+            pnpm --dir "$baseline_dir" bench:smoke
+            node bench/prepare-baseline.mjs "$baseline_dir/bench/results/local/current.json" bench/results/local/baseline.json
+            pnpm bench:gate bench/results/local/baseline.json bench/results/local/current.json
+          else
+            echo '::warning::Prior revision has no benchmark harness; performance comparison begins on the next comparable revision.'
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: benchmark-result
+          path: bench/results/local/*.json

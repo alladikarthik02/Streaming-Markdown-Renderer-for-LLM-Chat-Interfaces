@@ -1,0 +1,459 @@
+{
+  "id": "references",
+  "provenance": "synthetic",
+  "description": "Deterministic generated fixture; not a real answer and no model token count.",
+  "chunks": [
+    {
+      "text": "A [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother ",
+      "atMs": 10
+    },
+    {
+      "text": "paragraph separates the structures.\n\nA [reference][guide] can resolve later.\n\n- ",
+      "atMs": 20
+    },
+    {
+      "text": "[x] completed\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [ref",
+      "atMs": 30
+    },
+    {
+      "text": "erence][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragr",
+      "atMs": 40
+    },
+    {
+      "text": "aph separates the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] co",
+      "atMs": 50
+    },
+    {
+      "text": "mpleted\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [reference",
+      "atMs": 60
+    },
+    {
+      "text": "][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph se",
+      "atMs": 70
+    },
+    {
+      "text": "parates the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] complete",
+      "atMs": 80
+    },
+    {
+      "text": "d\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [reference][guid",
+      "atMs": 90
+    },
+    {
+      "text": "e] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separate",
+      "atMs": 100
+    },
+    {
+      "text": "s the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ",
+      "atMs": 110
+    },
+    {
+      "text": "] pending\n\nAnother paragraph separates the structures.\n\nA [reference][guide] can",
+      "atMs": 120
+    },
+    {
+      "text": " resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the ",
+      "atMs": 130
+    },
+    {
+      "text": "structures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pend",
+      "atMs": 140
+    },
+    {
+      "text": "ing\n\nAnother paragraph separates the structures.\n\nA [reference][guide] can resol",
+      "atMs": 150
+    },
+    {
+      "text": "ve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the struct",
+      "atMs": 160
+    },
+    {
+      "text": "ures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nA",
+      "atMs": 170
+    },
+    {
+      "text": "nother paragraph separates the structures.\n\nA [reference][guide] can resolve lat",
+      "atMs": 180
+    },
+    {
+      "text": "er.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the structures.\n",
+      "atMs": 190
+    },
+    {
+      "text": "\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother",
+      "atMs": 200
+    },
+    {
+      "text": " paragraph separates the structures.\n\nA [reference][guide] can resolve later.\n\n-",
+      "atMs": 210
+    },
+    {
+      "text": " [x] completed\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [re",
+      "atMs": 220
+    },
+    {
+      "text": "ference][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother parag",
+      "atMs": 230
+    },
+    {
+      "text": "raph separates the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] c",
+      "atMs": 240
+    },
+    {
+      "text": "ompleted\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [referenc",
+      "atMs": 250
+    },
+    {
+      "text": "e][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph s",
+      "atMs": 260
+    },
+    {
+      "text": "eparates the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] complet",
+      "atMs": 270
+    },
+    {
+      "text": "ed\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [reference][gui",
+      "atMs": 280
+    },
+    {
+      "text": "de] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separat",
+      "atMs": 290
+    },
+    {
+      "text": "es the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [",
+      "atMs": 300
+    },
+    {
+      "text": " ] pending\n\nAnother paragraph separates the structures.\n\nA [reference][guide] ca",
+      "atMs": 310
+    },
+    {
+      "text": "n resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the",
+      "atMs": 320
+    },
+    {
+      "text": " structures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pen",
+      "atMs": 330
+    },
+    {
+      "text": "ding\n\nAnother paragraph separates the structures.\n\nA [reference][guide] can reso",
+      "atMs": 340
+    },
+    {
+      "text": "lve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the struc",
+      "atMs": 350
+    },
+    {
+      "text": "tures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\n",
+      "atMs": 360
+    },
+    {
+      "text": "Another paragraph separates the structures.\n\nA [reference][guide] can resolve la",
+      "atMs": 370
+    },
+    {
+      "text": "ter.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the structures.",
+      "atMs": 380
+    },
+    {
+      "text": "\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnothe",
+      "atMs": 390
+    },
+    {
+      "text": "r paragraph separates the structures.\n\nA [reference][guide] can resolve later.\n\n",
+      "atMs": 400
+    },
+    {
+      "text": "- [x] completed\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [r",
+      "atMs": 410
+    },
+    {
+      "text": "eference][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother para",
+      "atMs": 420
+    },
+    {
+      "text": "graph separates the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] ",
+      "atMs": 430
+    },
+    {
+      "text": "completed\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [referen",
+      "atMs": 440
+    },
+    {
+      "text": "ce][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph ",
+      "atMs": 450
+    },
+    {
+      "text": "separates the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] comple",
+      "atMs": 460
+    },
+    {
+      "text": "ted\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [reference][gu",
+      "atMs": 470
+    },
+    {
+      "text": "ide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separa",
+      "atMs": 480
+    },
+    {
+      "text": "tes the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- ",
+      "atMs": 490
+    },
+    {
+      "text": "[ ] pending\n\nAnother paragraph separates the structures.\n\nA [reference][guide] c",
+      "atMs": 500
+    },
+    {
+      "text": "an resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates th",
+      "atMs": 510
+    },
+    {
+      "text": "e structures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pe",
+      "atMs": 520
+    },
+    {
+      "text": "nding\n\nAnother paragraph separates the structures.\n\nA [reference][guide] can res",
+      "atMs": 530
+    },
+    {
+      "text": "olve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the stru",
+      "atMs": 540
+    },
+    {
+      "text": "ctures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n",
+      "atMs": 550
+    },
+    {
+      "text": "\nAnother paragraph separates the structures.\n\nA [reference][guide] can resolve l",
+      "atMs": 560
+    },
+    {
+      "text": "ater.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the structures",
+      "atMs": 570
+    },
+    {
+      "text": ".\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnoth",
+      "atMs": 580
+    },
+    {
+      "text": "er paragraph separates the structures.\n\nA [reference][guide] can resolve later.\n",
+      "atMs": 590
+    },
+    {
+      "text": "\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [",
+      "atMs": 600
+    },
+    {
+      "text": "reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother par",
+      "atMs": 610
+    },
+    {
+      "text": "agraph separates the structures.\n\nA [reference][guide] can resolve later.\n\n- [x]",
+      "atMs": 620
+    },
+    {
+      "text": " completed\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [refere",
+      "atMs": 630
+    },
+    {
+      "text": "nce][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph",
+      "atMs": 640
+    },
+    {
+      "text": " separates the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] compl",
+      "atMs": 650
+    },
+    {
+      "text": "eted\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [reference][g",
+      "atMs": 660
+    },
+    {
+      "text": "uide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separ",
+      "atMs": 670
+    },
+    {
+      "text": "ates the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n-",
+      "atMs": 680
+    },
+    {
+      "text": " [ ] pending\n\nAnother paragraph separates the structures.\n\nA [reference][guide] ",
+      "atMs": 690
+    },
+    {
+      "text": "can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates t",
+      "atMs": 700
+    },
+    {
+      "text": "he structures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] p",
+      "atMs": 710
+    },
+    {
+      "text": "ending\n\nAnother paragraph separates the structures.\n\nA [reference][guide] can re",
+      "atMs": 720
+    },
+    {
+      "text": "solve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the str",
+      "atMs": 730
+    },
+    {
+      "text": "uctures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pending",
+      "atMs": 740
+    },
+    {
+      "text": "\n\nAnother paragraph separates the structures.\n\nA [reference][guide] can resolve ",
+      "atMs": 750
+    },
+    {
+      "text": "later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the structure",
+      "atMs": 760
+    },
+    {
+      "text": "s.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnot",
+      "atMs": 770
+    },
+    {
+      "text": "her paragraph separates the structures.\n\nA [reference][guide] can resolve later.",
+      "atMs": 780
+    },
+    {
+      "text": "\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA ",
+      "atMs": 790
+    },
+    {
+      "text": "[reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother pa",
+      "atMs": 800
+    },
+    {
+      "text": "ragraph separates the structures.\n\nA [reference][guide] can resolve later.\n\n- [x",
+      "atMs": 810
+    },
+    {
+      "text": "] completed\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [refer",
+      "atMs": 820
+    },
+    {
+      "text": "ence][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragrap",
+      "atMs": 830
+    },
+    {
+      "text": "h separates the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] comp",
+      "atMs": 840
+    },
+    {
+      "text": "leted\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [reference][",
+      "atMs": 850
+    },
+    {
+      "text": "guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph sepa",
+      "atMs": 860
+    },
+    {
+      "text": "rates the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n",
+      "atMs": 870
+    },
+    {
+      "text": "- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [reference][guide]",
+      "atMs": 880
+    },
+    {
+      "text": " can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates ",
+      "atMs": 890
+    },
+    {
+      "text": "the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] ",
+      "atMs": 900
+    },
+    {
+      "text": "pending\n\nAnother paragraph separates the structures.\n\nA [reference][guide] can r",
+      "atMs": 910
+    },
+    {
+      "text": "esolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the st",
+      "atMs": 920
+    },
+    {
+      "text": "ructures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pendin",
+      "atMs": 930
+    },
+    {
+      "text": "g\n\nAnother paragraph separates the structures.\n\nA [reference][guide] can resolve",
+      "atMs": 940
+    },
+    {
+      "text": " later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the structur",
+      "atMs": 950
+    },
+    {
+      "text": "es.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAno",
+      "atMs": 960
+    },
+    {
+      "text": "ther paragraph separates the structures.\n\nA [reference][guide] can resolve later",
+      "atMs": 970
+    },
+    {
+      "text": ".\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA",
+      "atMs": 980
+    },
+    {
+      "text": " [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother p",
+      "atMs": 990
+    },
+    {
+      "text": "aragraph separates the structures.\n\nA [reference][guide] can resolve later.\n\n- [",
+      "atMs": 1000
+    },
+    {
+      "text": "x] completed\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [refe",
+      "atMs": 1010
+    },
+    {
+      "text": "rence][guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragra",
+      "atMs": 1020
+    },
+    {
+      "text": "ph separates the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] com",
+      "atMs": 1030
+    },
+    {
+      "text": "pleted\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [reference]",
+      "atMs": 1040
+    },
+    {
+      "text": "[guide] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph sep",
+      "atMs": 1050
+    },
+    {
+      "text": "arates the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed",
+      "atMs": 1060
+    },
+    {
+      "text": "\n- [ ] pending\n\nAnother paragraph separates the structures.\n\nA [reference][guide",
+      "atMs": 1070
+    },
+    {
+      "text": "] can resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates",
+      "atMs": 1080
+    },
+    {
+      "text": " the structures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ]",
+      "atMs": 1090
+    },
+    {
+      "text": " pending\n\nAnother paragraph separates the structures.\n\nA [reference][guide] can ",
+      "atMs": 1100
+    },
+    {
+      "text": "resolve later.\n\n- [x] completed\n- [ ] pending\n\nAnother paragraph separates the s",
+      "atMs": 1110
+    },
+    {
+      "text": "tructures.\n\nA [reference][guide] can resolve later.\n\n- [x] completed\n- [ ] pendi",
+      "atMs": 1120
+    },
+    {
+      "text": "ng\n\nAnother paragraph separates the structures.\n\n\n[guide]: https://example.com\n",
+      "atMs": 1130
+    }
+  ]
+}

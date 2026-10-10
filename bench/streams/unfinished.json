@@ -1,0 +1,463 @@
+{
+  "id": "unfinished",
+  "provenance": "synthetic",
+  "description": "Deterministic generated fixture; not a real answer and no model token count.",
+  "chunks": [
+    {
+      "text": "This intentionally unfinished paragraph contains ordinary words and literal math",
+      "atMs": 10
+    },
+    {
+      "text": " $x^2 + y^2$ to expose growing-suffix work. This intentionally unfinished paragr",
+      "atMs": 20
+    },
+    {
+      "text": "aph contains ordinary words and literal math $x^2 + y^2$ to expose growing-suffi",
+      "atMs": 30
+    },
+    {
+      "text": "x work. This intentionally unfinished paragraph contains ordinary words and lite",
+      "atMs": 40
+    },
+    {
+      "text": "ral math $x^2 + y^2$ to expose growing-suffix work. This intentionally unfinishe",
+      "atMs": 50
+    },
+    {
+      "text": "d paragraph contains ordinary words and literal math $x^2 + y^2$ to expose growi",
+      "atMs": 60
+    },
+    {
+      "text": "ng-suffix work. This intentionally unfinished paragraph contains ordinary words ",
+      "atMs": 70
+    },
+    {
+      "text": "and literal math $x^2 + y^2$ to expose growing-suffix work. This intentionally u",
+      "atMs": 80
+    },
+    {
+      "text": "nfinished paragraph contains ordinary words and literal math $x^2 + y^2$ to expo",
+      "atMs": 90
+    },
+    {
+      "text": "se growing-suffix work. This intentionally unfinished paragraph contains ordinar",
+      "atMs": 100
+    },
+    {
+      "text": "y words and literal math $x^2 + y^2$ to expose growing-suffix work. This intenti",
+      "atMs": 110
+    },
+    {
+      "text": "onally unfinished paragraph contains ordinary words and literal math $x^2 + y^2$",
+      "atMs": 120
+    },
+    {
+      "text": " to expose growing-suffix work. This intentionally unfinished paragraph contains",
+      "atMs": 130
+    },
+    {
+      "text": " ordinary words and literal math $x^2 + y^2$ to expose growing-suffix work. This",
+      "atMs": 140
+    },
+    {
+      "text": " intentionally unfinished paragraph contains ordinary words and literal math $x^",
+      "atMs": 150
+    },
+    {
+      "text": "2 + y^2$ to expose growing-suffix work. This intentionally unfinished paragraph ",
+      "atMs": 160
+    },
+    {
+      "text": "contains ordinary words and literal math $x^2 + y^2$ to expose growing-suffix wo",
+      "atMs": 170
+    },
+    {
+      "text": "rk. This intentionally unfinished paragraph contains ordinary words and literal ",
+      "atMs": 180
+    },
+    {
+      "text": "math $x^2 + y^2$ to expose growing-suffix work. This intentionally unfinished pa",
+      "atMs": 190
+    },
+    {
+      "text": "ragraph contains ordinary words and literal math $x^2 + y^2$ to expose growing-s",
+      "atMs": 200
+    },
+    {
+      "text": "uffix work. This intentionally unfinished paragraph contains ordinary words and ",
+      "atMs": 210
+    },
+    {
+      "text": "literal math $x^2 + y^2$ to expose growing-suffix work. This intentionally unfin",
+      "atMs": 220
+    },
+    {
+      "text": "ished paragraph contains ordinary words and literal math $x^2 + y^2$ to expose g",
+      "atMs": 230
+    },
+    {
+      "text": "rowing-suffix work. This intentionally unfinished paragraph contains ordinary wo",
+      "atMs": 240
+    },
+    {
+      "text": "rds and literal math $x^2 + y^2$ to expose growing-suffix work. This intentional",
+      "atMs": 250
+    },
+    {
+      "text": "ly unfinished paragraph contains ordinary words and literal math $x^2 + y^2$ to ",
+      "atMs": 260
+    },
+    {
+      "text": "expose growing-suffix work. This intentionally unfinished paragraph contains ord",
+      "atMs": 270
+    },
+    {
+      "text": "inary words and literal math $x^2 + y^2$ to expose growing-suffix work. This int",
+      "atMs": 280
+    },
+    {
+      "text": "entionally unfinished paragraph contains ordinary words and literal math $x^2 + ",
+      "atMs": 290
+    },
+    {
+      "text": "y^2$ to expose growing-suffix work. This intentionally unfinished paragraph cont",
+      "atMs": 300
+    },
+    {
+      "text": "ains ordinary words and literal math $x^2 + y^2$ to expose growing-suffix work. ",
+      "atMs": 310
+    },
+    {
+      "text": "This intentionally unfinished paragraph contains ordinary words and literal math",
+      "atMs": 320
+    },
+    {
+      "text": " $x^2 + y^2$ to expose growing-suffix work. This intentionally unfinished paragr",
+      "atMs": 330
+    },
+    {
+      "text": "aph contains ordinary words and literal math $x^2 + y^2$ to expose growing-suffi",
+      "atMs": 340
+    },
+    {
+      "text": "x work. This intentionally unfinished paragraph contains ordinary words and lite",
+      "atMs": 350
+    },
+    {
+      "text": "ral math $x^2 + y^2$ to expose growing-suffix work. This intentionally unfinishe",
+      "atMs": 360
+    },
+    {
+      "text": "d paragraph contains ordinary words and literal math $x^2 + y^2$ to expose growi",
+      "atMs": 370
+    },
+    {
+      "text": "ng-suffix work. This intentionally unfinished paragraph contains ordinary words ",
+      "atMs": 380
+    },
+    {
+      "text": "and literal math $x^2 + y^2$ to expose growing-suffix work. This intentionally u",
+      "atMs": 390
+    },
+    {
+      "text": "nfinished paragraph contains ordinary words and literal math $x^2 + y^2$ to expo",
+      "atMs": 400
+    },
+    {
+      "text": "se growing-suffix work. This intentionally unfinished paragraph contains ordinar",
+      "atMs": 410
+    },
+    {
+      "text": "y words and literal math $x^2 + y^2$ to expose growing-suffix work. This intenti",
+      "atMs": 420
+    },
+    {
+      "text": "onally unfinished paragraph contains ordinary words and literal math $x^2 + y^2$",
+      "atMs": 430
+    },
+    {
+      "text": " to expose growing-suffix work. This intentionally unfinished paragraph contains",
+      "atMs": 440
+    },
+    {
+      "text": " ordinary words and literal math $x^2 + y^2$ to expose growing-suffix work. This",
+      "atMs": 450
+    },
+    {
+      "text": " intentionally unfinished paragraph contains ordinary words and literal math $x^",
+      "atMs": 460
+    },
+    {
+      "text": "2 + y^2$ to expose growing-suffix work. This intentionally unfinished paragraph ",
+      "atMs": 470
+    },
+    {
+      "text": "contains ordinary words and literal math $x^2 + y^2$ to expose growing-suffix wo",
+      "atMs": 480
+    },
+    {
+      "text": "rk. This intentionally unfinished paragraph contains ordinary words and literal ",
+      "atMs": 490
+    },
+    {
+      "text": "math $x^2 + y^2$ to expose growing-suffix work. This intentionally unfinished pa",
+      "atMs": 500
+    },
+    {
+      "text": "ragraph contains ordinary words and literal math $x^2 + y^2$ to expose growing-s",
+      "atMs": 510
+    },
+    {
+      "text": "uffix work. This intentionally unfinished paragraph contains ordinary words and ",
+      "atMs": 520
+    },
+    {
+      "text": "literal math $x^2 + y^2$ to expose growing-suffix work. This intentionally unfin",
+      "atMs": 530
+    },
+    {
+      "text": "ished paragraph contains ordinary words and literal math $x^2 + y^2$ to expose g",
+      "atMs": 540
+    },
+    {
+      "text": "rowing-suffix work. This intentionally unfinished paragraph contains ordinary wo",
+      "atMs": 550
+    },
+    {
+      "text": "rds and literal math $x^2 + y^2$ to expose growing-suffix work. This intentional",
+      "atMs": 560
+    },
+    {
+      "text": "ly unfinished paragraph contains ordinary words and literal math $x^2 + y^2$ to ",
+      "atMs": 570
+    },
+    {
+      "text": "expose growing-suffix work. This intentionally unfinished paragraph contains ord",
+      "atMs": 580
+    },
+    {
+      "text": "inary words and literal math $x^2 + y^2$ to expose growing-suffix work. This int",
+      "atMs": 590
+    },
+    {
+      "text": "entionally unfinished paragraph contains ordinary words and literal math $x^2 + ",
+      "atMs": 600
+    },
+    {
+      "text": "y^2$ to expose growing-suffix work. This intentionally unfinished paragraph cont",
+      "atMs": 610
+    },
+    {
+      "text": "ains ordinary words and literal math $x^2 + y^2$ to expose growing-suffix work. ",
+      "atMs": 620
+    },
+    {
+      "text": "This intentionally unfinished paragraph contains ordinary words and literal math",
+      "atMs": 630
+    },
+    {
+      "text": " $x^2 + y^2$ to expose growing-suffix work. This intentionally unfinished paragr",
+      "atMs": 640
+    },
+    {
+      "text": "aph contains ordinary words and literal math $x^2 + y^2$ to expose growing-suffi",
+      "atMs": 650
+    },
+    {
+      "text": "x work. This intentionally unfinished paragraph contains ordinary words and lite",
+      "atMs": 660
+    },
+    {
+      "text": "ral math $x^2 + y^2$ to expose growing-suffix work. This intentionally unfinishe",
+      "atMs": 670
+    },
+    {
+      "text": "d paragraph contains ordinary words and literal math $x^2 + y^2$ to expose growi",
+      "atMs": 680
+    },
+    {
+      "text": "ng-suffix work. This intentionally unfinished paragraph contains ordinary words ",
+      "atMs": 690
+    },
+    {
+      "text": "and literal math $x^2 + y^2$ to expose growing-suffix work. This intentionally u",
+      "atMs": 700
+    },
+    {
+      "text": "nfinished paragraph contains ordinary words and literal math $x^2 + y^2$ to expo",
+      "atMs": 710
+    },
+    {
+      "text": "se growing-suffix work. This intentionally unfinished paragraph contains ordinar",
+      "atMs": 720
+    },
+    {
+      "text": "y words and literal math $x^2 + y^2$ to expose growing-suffix work. This intenti",
+      "atMs": 730
+    },
+    {
+      "text": "onally unfinished paragraph contains ordinary words and literal math $x^2 + y^2$",
+      "atMs": 740
+    },
+    {
+      "text": " to expose growing-suffix work. This intentionally unfinished paragraph contains",
+      "atMs": 750
+    },
+    {
+      "text": " ordinary words and literal math $x^2 + y^2$ to expose growing-suffix work. This",
+      "atMs": 760
+    },
+    {
+      "text": " intentionally unfinished paragraph contains ordinary words and literal math $x^",
+      "atMs": 770
+    },
+    {
+      "text": "2 + y^2$ to expose growing-suffix work. This intentionally unfinished paragraph ",
+      "atMs": 780
+    },
+    {
+      "text": "contains ordinary words and literal math $x^2 + y^2$ to expose growing-suffix wo",
+      "atMs": 790
+    },
+    {
+      "text": "rk. This intentionally unfinished paragraph contains ordinary words and literal ",
+      "atMs": 800
+    },
+    {
+      "text": "math $x^2 + y^2$ to expose growing-suffix work. This intentionally unfinished pa",
+      "atMs": 810
+    },
+    {
+      "text": "ragraph contains ordinary words and literal math $x^2 + y^2$ to expose growing-s",
+      "atMs": 820
+    },
+    {
+      "text": "uffix work. This intentionally unfinished paragraph contains ordinary words and ",
+      "atMs": 830
+    },
+    {
+      "text": "literal math $x^2 + y^2$ to expose growing-suffix work. This intentionally unfin",
+      "atMs": 840
+    },
+    {
+      "text": "ished paragraph contains ordinary words and literal math $x^2 + y^2$ to expose g",
+      "atMs": 850
+    },
+    {
+      "text": "rowing-suffix work. This intentionally unfinished paragraph contains ordinary wo",
+      "atMs": 860
+    },
+    {
+      "text": "rds and literal math $x^2 + y^2$ to expose growing-suffix work. This intentional",
+      "atMs": 870
+    },
+    {
+      "text": "ly unfinished paragraph contains ordinary words and literal math $x^2 + y^2$ to ",
+      "atMs": 880
+    },
+    {
+      "text": "expose growing-suffix work. This intentionally unfinished paragraph contains ord",
+      "atMs": 890
+    },
+    {
+      "text": "inary words and literal math $x^2 + y^2$ to expose growing-suffix work. This int",
+      "atMs": 900
+    },
+    {
+      "text": "entionally unfinished paragraph contains ordinary words and literal math $x^2 + ",
+      "atMs": 910
+    },
+    {
+      "text": "y^2$ to expose growing-suffix work. This intentionally unfinished paragraph cont",
+      "atMs": 920
+    },
+    {
+      "text": "ains ordinary words and literal math $x^2 + y^2$ to expose growing-suffix work. ",
+      "atMs": 930
+    },
+    {
+      "text": "This intentionally unfinished paragraph contains ordinary words and literal math",
+      "atMs": 940
+    },
+    {
+      "text": " $x^2 + y^2$ to expose growing-suffix work. This intentionally unfinished paragr",
+      "atMs": 950
+    },
+    {
+      "text": "aph contains ordinary words and literal math $x^2 + y^2$ to expose growing-suffi",
+      "atMs": 960
+    },
+    {
+      "text": "x work. This intentionally unfinished paragraph contains ordinary words and lite",
+      "atMs": 970
+    },
+    {
+      "text": "ral math $x^2 + y^2$ to expose growing-suffix work. This intentionally unfinishe",
+      "atMs": 980
+    },
+    {
+      "text": "d paragraph contains ordinary words and literal math $x^2 + y^2$ to expose growi",
+      "atMs": 990
+    },
+    {
+      "text": "ng-suffix work. This intentionally unfinished paragraph contains ordinary words ",
+      "atMs": 1000
+    },
+    {
+      "text": "and literal math $x^2 + y^2$ to expose growing-suffix work. This intentionally u",
+      "atMs": 1010
+    },
+    {
+      "text": "nfinished paragraph contains ordinary words and literal math $x^2 + y^2$ to expo",
+      "atMs": 1020
+    },
+    {
+      "text": "se growing-suffix work. This intentionally unfinished paragraph contains ordinar",
+      "atMs": 1030
+    },
+    {
+      "text": "y words and literal math $x^2 + y^2$ to expose growing-suffix work. This intenti",
+      "atMs": 1040
+    },
+    {
+      "text": "onally unfinished paragraph contains ordinary words and literal math $x^2 + y^2$",
+      "atMs": 1050
+    },
+    {
+      "text": " to expose growing-suffix work. This intentionally unfinished paragraph contains",
+      "atMs": 1060
+    },
+    {
+      "text": " ordinary words and literal math $x^2 + y^2$ to expose growing-suffix work. This",
+      "atMs": 1070
+    },
+    {
+      "text": " intentionally unfinished paragraph contains ordinary words and literal math $x^",
+      "atMs": 1080
+    },
+    {
+      "text": "2 + y^2$ to expose growing-suffix work. This intentionally unfinished paragraph ",
+      "atMs": 1090
+    },
+    {
+      "text": "contains ordinary words and literal math $x^2 + y^2$ to expose growing-suffix wo",
+      "atMs": 1100
+    },
+    {
+      "text": "rk. This intentionally unfinished paragraph contains ordinary words and literal ",
+      "atMs": 1110
+    },
+    {
+      "text": "math $x^2 + y^2$ to expose growing-suffix work. This intentionally unfinished pa",
+      "atMs": 1120
+    },
+    {
+      "text": "ragraph contains ordinary words and literal math $x^2 + y^2$ to expose growing-s",
+      "atMs": 1130
+    },
+    {
+      "text": "uffix work. ",
+      "atMs": 1140
+    }
+  ]
+}

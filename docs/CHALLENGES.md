@@ -115,3 +115,11 @@ Scroll following tracks reader intent rather than checking distance only after c
 ## Task 6 outcome
 
 An independent literal-code assertion exposed entity decoding inside code spans: marked leaves their text literal, so decoding it changed content. Removed that decoding and added a golden DOM assertion. Thirty seeded randomized partition cases now compare every intermediate state, in addition to fixed split fixtures. Verified actual memoization with render-call instrumentation, injected parser failure with accepted-text fallback, highlight/source bounds, and installed the packed artifact into a clean temporary consumer. 97 unit/component tests, 3 browser scenarios, type checking, both builds and the 18-entry package allowlist pass. Other browsers and React 18 are not yet empirically tested.
+
+## Task 7 outcome
+
+The first production profiling attempt aliased both react-dom and react-dom/client. That broke server-renderer internals on the parity page. Restricting the alias to the client fixed it; page startup now fails within 10 seconds instead of hanging. All 11 parity/benchmark cases pass. Recorded 60 measured replays plus 20 warmups across five synthetic workloads and four variants at 4x CPU slowdown.
+
+React actualDuration excludes the controller's parsing work, so the harness additionally measures the complete synchronous update callback for all variants. Controlled rAF batching and flushSync improve comparability but are not normal application scheduling; both limitations are documented. Reference-heavy full fallback is slower than full-marked in this run, and the unfinished paragraph offers no useful speedup. Reported these alongside successful prose/code/table improvements. Raw samples and source digests are committed.
+
+CI comparison uses a prior-revision worktree on the same runner, avoiding a misleading macOS-to-Linux baseline. The first harness commit explicitly has no prior comparison; subsequent comparable revisions enforce both render and total-work regressions at 50% with a 1 ms noise floor. The separate real-corpus gate fails until 40 approved, token-accounted recordings exist. No real recordings have been fabricated.

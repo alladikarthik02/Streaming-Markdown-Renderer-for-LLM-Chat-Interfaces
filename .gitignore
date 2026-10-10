@@ -7,3 +7,4 @@ playwright-report/
 .env*
 bench/private/
 bench/results/local/
+bench-dist/
