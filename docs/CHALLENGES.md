@@ -107,3 +107,7 @@ The planner preserves completed token objects and reparses the last two top-leve
 ## Task 4 outcome
 
 An epoch guard prevents cancelled frame callbacks from publishing into a reset stream. Limits count accepted plus queued input and reject an oversized chunk atomically, including when background tabs suppress rAF. Cancel flushes accepted text and stops new appends; reset starts a new generation. Hook cleanup suspends rather than permanently disposing, so React Strict Mode can reactivate the same instance. Code views cache highlight results in per-instance React memoization, releasing them on unmount. 62 tests pass, including bursts, stale callbacks, cancellation, bounds and Strict Mode.
+
+## Task 5 outcome
+
+Scroll following tracks reader intent rather than checking distance only after content grows. Wheel-up, upward touch and navigation keys pause following; output growth and resize preserve the paused position and focus. Jump to latest re-enables it. Browser tests initially found an ambiguous status locator because HTML output elements also expose status roles; the stream status now has an explicit accessible name. Corrected the test Touch constructor to supply its required identifier and target. All three browser scenarios pass, covering active growth, resize, focus and zero remote requests for malicious content. Desktop and mobile screenshots were inspected.

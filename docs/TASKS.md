@@ -67,7 +67,7 @@ Commit: `feat: batch stream updates and handle lifecycle boundaries`
 
 ## Task 5 — Reader-controlled viewport and demo
 
-Status: pending. Depends on Task 4.
+Status: complete. Validation: 62 unit/component tests and 3 Chromium browser scenarios pass; builds and desktop/mobile visual inspection completed.
 
 Deliver: 40 px follow threshold, explicit reader-intent handling, resize behavior, accessible Jump to latest, sample controls, input/status/limit indicators, and keyboard-friendly layout.
 
