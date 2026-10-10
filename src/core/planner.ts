@@ -1,5 +1,5 @@
 import type { Token } from 'marked';
-import { lex } from '../render/safe.js';
+import { lex } from './lex.js';
 
 export type Block = Readonly<{ id: string; token: Token; start: number; end: number }>;
 export type Plan = Readonly<{ blocks: readonly Block[]; source: string; final: boolean; parsedCharacters: number; fallback: boolean }>;

@@ -1,5 +1,7 @@
-import { createElement, Fragment, type ReactNode } from 'react';
-import { Lexer, type Token, type Tokens } from 'marked';
+import { createElement, Fragment, memo, useMemo, type ReactNode } from 'react';
+import type { Token, Tokens } from 'marked';
+import { lex } from '../core/lex.js';
+export { lex } from '../core/lex.js';
 import { decodeHTML } from 'entities';
 import { createLowlight } from 'lowlight';
 import javascript from 'highlight.js/lib/languages/javascript';
@@ -32,9 +34,6 @@ export function safeUrl(input: string): string | undefined {
   } catch { return undefined; }
 }
 
-export function lex(source: string): Token[] {
-  return Lexer.lex(source, { gfm: true, breaks: false, pedantic: false });
-}
 
 export function isClosedFence(raw: string): boolean {
   const lines = raw.replace(/\r\n?/g, '\n').split('\n');
@@ -56,6 +55,11 @@ export function codeContent(text: string, language: string, enabled: boolean): R
   try { return spans(highlighter.highlight(name, text).children as HighlightNode[]); }
   catch { return text; }
 }
+
+const HighlightedCode = memo(function HighlightedCode({ text, language, enabled }: { text: string; language: string; enabled: boolean }) {
+  const content = useMemo(() => codeContent(text, language, enabled), [text, language, enabled]);
+  return <pre><code>{content}</code></pre>;
+});
 
 export function renderTokens(tokens: Token[], final = true, depth = 0): ReactNode {
   if (depth > 100) return tokens.map(t => t.raw).join('');
@@ -84,7 +88,7 @@ export function renderTokens(tokens: Token[], final = true, depth = 0): ReactNod
       case 'image': { const t = token as Tokens.Image; result = <span className="md-image">[Image: {decodeHTML(t.text)}]</span>; break; }
       case 'code': {
         const t = token as Tokens.Code; const language = (t.lang ?? '').split(/\s/)[0] ?? '';
-        result = <pre><code>{codeContent(t.text, language, final || isClosedFence(t.raw))}</code></pre>; break;
+        result = <HighlightedCode text={t.text} language={language} enabled={final || isClosedFence(t.raw)} />; break;
       }
       case 'list': {
         const t = token as Tokens.List;

@@ -103,3 +103,7 @@ Implemented a token-to-React renderer with no raw HTML sink. URL validation reje
 ## Task 3 outcome
 
 The planner preserves completed token objects and reparses the last two top-level tokens, retaining entire enclosing lists and quotes. 13 adversarial fixtures pass both every split position and every intermediate character against full parsing. A conservative fallback activates for any opening square bracket (possible reference syntax), CR-normalized input or nonexact lexer source offsets. This intentionally sacrifices speed for all bracket-containing documents, including inline links and task lists, until a proven dependency-aware optimization exists. Source offsets identify blocks; duplicate text cannot collide. 51 tests pass.
+
+## Task 4 outcome
+
+An epoch guard prevents cancelled frame callbacks from publishing into a reset stream. Limits count accepted plus queued input and reject an oversized chunk atomically, including when background tabs suppress rAF. Cancel flushes accepted text and stops new appends; reset starts a new generation. Hook cleanup suspends rather than permanently disposing, so React Strict Mode can reactivate the same instance. Code views cache highlight results in per-instance React memoization, releasing them on unmount. 62 tests pass, including bursts, stale callbacks, cancellation, bounds and Strict Mode.

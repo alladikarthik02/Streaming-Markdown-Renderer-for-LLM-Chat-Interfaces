@@ -55,7 +55,7 @@ Commit: `feat: add incremental block planning and stable rendering`
 
 ## Task 4 — Stream lifecycle and frame batching
 
-Status: pending. Depends on Task 3.
+Status: complete. Validation: 62 tests, typecheck and both builds pass.
 
 Deliver: controller/hook, generation IDs, rAF coalescing, finish/cancel/reset/dispose, bounded buffer, status/error UI and delayed highlight cache.
 
