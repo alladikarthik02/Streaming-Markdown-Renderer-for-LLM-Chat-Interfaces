@@ -95,3 +95,7 @@ Interview prompt: Why is sanitizing one output path insufficient if plugins intr
 ## Task 1 outcome
 
 Established a separate library build and demo build, with React as a peer and development dependency. Dependency versions are exact and locked. The initial component mount/unmount test, type checking, both builds and public import passed. The latest user instruction supersedes checkpoint pauses; commits and explanations remain required.
+
+## Task 2 outcome
+
+Implemented a token-to-React renderer with no raw HTML sink. URL validation rejects encoded and control-character schemes; remote image Markdown becomes inert text. Highlighting uses a six-language allowlist and safe spans. Unclosed fences remain plain during streaming. 23 tests and both builds pass. The direct highlight.js dependency is declared explicitly rather than relying on lowlight transitively.

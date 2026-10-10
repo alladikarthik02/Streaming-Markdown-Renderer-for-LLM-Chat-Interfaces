@@ -31,7 +31,7 @@ Commit: `chore: scaffold renderer package and validation tools`
 
 ## Task 2 — Safe full-document rendering reference
 
-Status: pending. Depends on Task 1.
+Status: complete. Validation: 23 tests, typecheck and library/demo builds pass.
 
 Deliver: pinned marked dialect, token-to-React renderer, link policy, literal HTML/image behavior, bounded language allowlist and plain-code fallback. This becomes the correctness reference for incremental rendering.
 

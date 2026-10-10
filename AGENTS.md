@@ -8,4 +8,4 @@
 - Never present target performance numbers or generated fixtures as measured results or real recordings.
 - Tests must verify behavior across adversarial chunk boundaries, not simply duplicate implementation logic.
 - Keep dependencies locked, record runtime versions, and provide reproducible commands.
-- Do not publish a package, deploy, or push without authorization for that action.
+- Push completed task commits to origin as requested. Do not publish a package or deploy without authorization for that action.
