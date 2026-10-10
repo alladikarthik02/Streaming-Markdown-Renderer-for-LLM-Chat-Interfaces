@@ -111,3 +111,7 @@ An epoch guard prevents cancelled frame callbacks from publishing into a reset s
 ## Task 5 outcome
 
 Scroll following tracks reader intent rather than checking distance only after content grows. Wheel-up, upward touch and navigation keys pause following; output growth and resize preserve the paused position and focus. Jump to latest re-enables it. Browser tests initially found an ambiguous status locator because HTML output elements also expose status roles; the stream status now has an explicit accessible name. Corrected the test Touch constructor to supply its required identifier and target. All three browser scenarios pass, covering active growth, resize, focus and zero remote requests for malicious content. Desktop and mobile screenshots were inspected.
+
+## Task 6 outcome
+
+An independent literal-code assertion exposed entity decoding inside code spans: marked leaves their text literal, so decoding it changed content. Removed that decoding and added a golden DOM assertion. Thirty seeded randomized partition cases now compare every intermediate state, in addition to fixed split fixtures. Verified actual memoization with render-call instrumentation, injected parser failure with accepted-text fallback, highlight/source bounds, and installed the packed artifact into a clean temporary consumer. 97 unit/component tests, 3 browser scenarios, type checking, both builds and the 18-entry package allowlist pass. Other browsers and React 18 are not yet empirically tested.

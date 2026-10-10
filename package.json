@@ -26,7 +26,8 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "test:browser": "playwright test",
-    "check": "pnpm typecheck && pnpm test && pnpm build && pnpm build:demo"
+    "check": "pnpm typecheck && pnpm test && pnpm build && pnpm build:demo",
+    "verify:package": "pnpm build && node scripts/verify-package.mjs"
   },
   "peerDependencies": {
     "react": ">=18.3.0 <20",

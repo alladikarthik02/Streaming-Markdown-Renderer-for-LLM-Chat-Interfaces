@@ -76,7 +76,7 @@ export function renderTokens(tokens: Token[], final = true, depth = 0): ReactNod
       case 'strong': result = <strong>{child((token as Tokens.Strong).tokens)}</strong>; break;
       case 'em': result = <em>{child((token as Tokens.Em).tokens)}</em>; break;
       case 'del': result = <del>{child((token as Tokens.Del).tokens)}</del>; break;
-      case 'codespan': result = <code>{decodeHTML((token as Tokens.Codespan).text)}</code>; break;
+      case 'codespan': result = <code>{(token as Tokens.Codespan).text}</code>; break;
       case 'br': result = <br />; break;
       case 'hr': result = <hr />; break;
       case 'blockquote': result = <blockquote>{child((token as Tokens.Blockquote).tokens)}</blockquote>; break;

@@ -79,7 +79,7 @@ Commit: `feat: add reader-aware scrolling and interactive demo`
 
 ## Task 6 — Correctness hardening and local package delivery
 
-Status: pending. Depends on Task 5.
+Status: complete. Validation: 97 unit/component tests, 3 browser scenarios, both builds, typecheck and clean tarball consumer all pass.
 
 Deliver: adversarial fixture corpus, expanded browser tests, typed package exports, local tarball consumer validation, usage docs, clean-checkout instructions and documented limits.
 
