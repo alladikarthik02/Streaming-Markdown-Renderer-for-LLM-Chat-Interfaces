@@ -3,3 +3,4 @@ export { MarkdownController, type StreamOptions, type StreamStatus, type Snapsho
 export { useMarkdownStream, useStreamSnapshot } from './stream/hooks.js';
 export { PlannedMarkdown } from './render/blocks.js';
 export { MarkdownStream, type MarkdownStreamProps } from './components/MarkdownStream.js';
+export { pipeMarkdown, type PipeResult } from './stream/pipe.js';

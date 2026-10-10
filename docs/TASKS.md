@@ -105,7 +105,7 @@ Commit: `perf: add replay benchmarks and regression reporting`
 
 ## Task 8 — Integration and release
 
-Status: pending external inputs. Depends on Tasks 6-7.
+Status: adapter and release preparation complete; actual StudyChat integration, license selection and publication remain pending external inputs/authorization. Validation: 107 unit/component tests, 3 Chromium scenarios, clean 20-entry tarball consumer, typecheck and both builds pass.
 
 Deliver: integration against the actual StudyChat interface when supplied, license choice from owner, release checklist, and publication only when explicitly authorized.
 

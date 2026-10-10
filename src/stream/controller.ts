@@ -72,6 +72,10 @@ export class MarkdownController {
     if (this.disposed || !['pending', 'streaming'].includes(this.snapshot.status)) return;
     this.clearFrame(); this.flush('cancelled');
   };
+  fail = (message = 'Stream failed; accepted text is preserved.') => {
+    if (this.disposed || !['pending', 'streaming'].includes(this.snapshot.status)) return;
+    this.clearFrame(); this.flush('error', message);
+  };
   reset = () => {
     if (this.disposed) return;
     this.clearFrame(); this.pending = ''; this.accepted = ''; this.generation++;
